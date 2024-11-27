@@ -1,0 +1,71 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+
+}
+
+header{
+    text-align: center;
+    align-content: center;
+    background:url(IMAGENES/flores.jpg);
+
+
+}
+
+.banner-conten
+
+.nav ul li{
+    color:burlywood ;
+    text-decoration: none;
+
+}
+
+.nav ul li a:hover{
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    max-width: 90%;
+    margin: 20px auto;
+    padding: 10px;
+    gap: 20px;
+}
+
+.articulos{
+    display: flex;
+    background-color: white ;
+    margin-bottom: 20px;
+    border: 1px solid white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0,1);
+
+}
+
+.articulo-comtenido{
+    flex: 2;
+    padding: 15px;
+
+}
+
+.articulo-contenido h2{
+    font-size: 10;
+    margin: 0 0 10px;
+
+}
+
+.category{
+    color:azure;
+    font-weight: bold;
+    margin: 5px o;
+
+}
+
+.subtitulo{
+    color: grey;
+    font-size: small;
+}
